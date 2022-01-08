@@ -1,5 +1,4 @@
-
-![1640815388894](https://user-images.githubusercontent.com/38922535/148644531-05447532-00cc-4a17-ae56-c319ea9346f1.jpg)
+![6ba4b8cf-8e93-485b-9194-c40dd9573cad](https://user-images.githubusercontent.com/38922535/148645666-6fefcdf8-1ef7-440e-a355-2502cc9eac3d.jpg)
 
 ### Hi there 👋
 - 🔭 I’m currently working on ... Data Science Project
