@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on ...Data Science
 - 🤔 I’m looking for help with ... AWS, GC, Azure
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/akshay-gavai-9ba340156/) [Instagram](https://www.instagram.com/akki_gavai/) [Email](akshaygavai95@gmail.com
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/akshay-gavai-9ba340156/) [Instagram](https://www.instagram.com/akki_gavai/) [Email](Mailto:akshaygavai95@gmail.com
 )
 
