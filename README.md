@@ -3,7 +3,7 @@
 ### Hello World 👋  Akshay Here 😎
 - 🔭 I’m currently working on ... Data Science Project, JavaScript Project
 - 🌱 I’m currently learning ... Data Science, Blockchain
-- 👯 I’m looking to collaborate on ...Data Science, Python and javaScript
+- 👯 I’m looking to collaborate on ... Python and javaScript
 - 🤔 I’m looking for help with ... AWS, GC and Azure
 - 💬 Ask me about ... Anything
 - 😁 Pronouns : He/Him
